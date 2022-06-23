@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\test\\webapi\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
+    "D:\\test\\123\\dotnetapi\\WebApplication1.csproj": {}
   },
   "projects": {
-    "D:\\test\\webapi\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
+    "D:\\test\\123\\dotnetapi\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\test\\webapi\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "D:\\test\\123\\dotnetapi\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "D:\\test\\webapi\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "D:\\test\\123\\dotnetapi\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\hades\\.nuget\\packages\\",
-        "outputPath": "D:\\test\\webapi\\WebApplication1\\WebApplication1\\obj\\",
+        "outputPath": "D:\\test\\123\\dotnetapi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
